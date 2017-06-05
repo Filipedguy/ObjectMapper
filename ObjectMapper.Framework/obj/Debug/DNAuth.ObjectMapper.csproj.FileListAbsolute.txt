@@ -1,0 +1,7 @@
+c:\users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\bin\Debug\DNAuth.ObjectMapper.dll
+c:\users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\bin\Debug\DNAuth.ObjectMapper.pdb
+c:\users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\obj\Debug\DNAuth.ObjectMapper.csprojResolveAssemblyReference.cache
+c:\users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\obj\Debug\DNAuth.ObjectMapper.dll
+c:\users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\obj\Debug\DNAuth.ObjectMapper.pdb
+C:\Users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fvasconcelos\documents\visual studio 2017\Projects\DNAuth.ObjectMapper\DNAuth.ObjectMapper\bin\Debug\Newtonsoft.Json.xml

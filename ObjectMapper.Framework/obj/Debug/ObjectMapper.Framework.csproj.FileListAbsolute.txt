@@ -1,0 +1,9 @@
+C:\Repositories\dnauth.objectmapper\DNAuth.ObjectMapper\obj\Debug\ObjectMapper.Framework.csprojResolveAssemblyReference.cache
+C:\Repositories\dnauth.objectmapper\DNAuth.ObjectMapper\obj\Debug\DNAuth.ObjectMapper.dll
+C:\Repositories\dnauth.objectmapper\DNAuth.ObjectMapper\obj\Debug\DNAuth.ObjectMapper.pdb
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Debug\ObjectMapper.Framework.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Debug\ObjectMapper.Framework.pdb
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\obj\Debug\ObjectMapper.Framework.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\obj\Debug\ObjectMapper.Framework.pdb
