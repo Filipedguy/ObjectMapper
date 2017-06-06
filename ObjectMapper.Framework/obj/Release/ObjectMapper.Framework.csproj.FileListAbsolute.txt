@@ -1,0 +1,7 @@
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Release\ObjectMapper.Framework.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Release\ObjectMapper.Framework.pdb
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Release\Newtonsoft.Json.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\bin\Release\Newtonsoft.Json.xml
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\obj\Release\ObjectMapper.Framework.dll
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\obj\Release\ObjectMapper.Framework.pdb
+C:\Repositories\ObjectMapper\ObjectMapper.Framework\obj\Release\ObjectMapper.Framework.csprojResolveAssemblyReference.cache
