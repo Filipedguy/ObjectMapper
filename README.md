@@ -1,6 +1,6 @@
-<!-- CREATING NUGET PACKAGE AND CI
+[![Build status](https://ci.appveyor.com/api/projects/status/6hd9w1wn2506nxn3?svg=true)](https://ci.appveyor.com/project/Filipedguy/objectmapper)
 
-[![Build status](link)](link)
+<!-- CREATING NUGET PACKAGE
 
 [![NuGet](imagemlink)](https://www.nuget.org/packages/ObjectMapper/)
 
