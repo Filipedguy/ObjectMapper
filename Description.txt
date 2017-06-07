@@ -1,0 +1,5 @@
+ObjectMapper is another, but yet useful mapper for object-to-object.
+
+Use the annotations, to indicate what properties shall be mapped
+
+ObjectMapper is Copyright 2017 Filipe da Cunha Vasconcellos and other contributors under the MIT license
