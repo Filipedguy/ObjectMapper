@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+    <!-- The identifier that must be unique within the hosting gallery -->
+    <id>ObjectMapper.Framework</id>
+
+    <!-- The package version number that is used when resolving dependencies -->
+    <version>0.9.0</version>
+
+    <!-- Authors contain text that appears directly on the gallery -->
+    <authors>Filipe da Cunha Vasconcellos</authors>
+
+    <!-- Owners are typically nuget.org identities that allow gallery
+            users to easily find other packages by the same owners.  -->
+    <owners>filipedguy</owners>
+
+    <!-- License and project URLs provide links for the gallery -->
+    <licenseUrl>https://github.com/Filipedguy/ObjectMapper/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/Filipedguy/ObjectMapper</projectUrl>
+
+    <!-- The icon is used in Visual Studio's package manager UI -->
+    <iconUrl>https://github.com/Filipedguy/ObjectMapper</iconUrl>
+
+    <!-- If true, this value prompts the user to accept the license when
+            installing the package. -->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+
+    <!-- Any details about this particular release -->
+    <releaseNotes>Initial Release</releaseNotes>
+
+    <!-- The description can be used in package manager UI. Note that the
+            nuget.org gallery uses information you add in the portal. -->
+    <description>Object Mapping using Fluent, Annotations and Lambda</description>
+
+    <!-- Copyright information -->
+    <copyright>Copyright ©2017 Filipe da Cunha Vasconcellos</copyright>
+
+    <!-- Tags appear in the gallery and can be used for tag searches -->
+    <tags>utility map mapper mapping object</tags>
+
+    <!-- Dependencies are automatically installed when the package is installed -->
+    <dependencies>
+        <dependency id="Newtonsoft.Json" version="10.0" />
+    </dependencies>
+    </metadata>
+
+    <!-- A readme.txt will be displayed when the package is installed -->
+    <files>
+    <file src="Description.txt" target="" />
+    </files>
+</package>
