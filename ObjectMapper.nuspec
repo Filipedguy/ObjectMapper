@@ -5,7 +5,7 @@
     <id>ObjectMapper.Framework</id>
 
     <!-- The package version number that is used when resolving dependencies -->
-    <version>0.9.0</version>
+    <version>0.9.1</version>
 
     <!-- Authors contain text that appears directly on the gallery -->
     <authors>Filipe da Cunha Vasconcellos</authors>
@@ -47,5 +47,6 @@
     <!-- A readme.txt will be displayed when the package is installed -->
     <files>
     <file src="Description.txt" target="" />
+	<file src="ObjectMapper.Framework\bin\Release\ObjectMapper.Framework.dll" target="lib\net45" />
     </files>
 </package>

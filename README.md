@@ -1,10 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6hd9w1wn2506nxn3?svg=true)](https://ci.appveyor.com/project/Filipedguy/objectmapper)
-
-<!-- CREATING NUGET PACKAGE
-
-[![NuGet](imagemlink)](https://www.nuget.org/packages/ObjectMapper/)
-
--->
+[![NuGet](imagemlink)](https://www.nuget.org/packages/ObjectMapper.Framework/)
 
 ### ObjectMapper
 
@@ -34,17 +29,39 @@ var helloWorld = new HelloWorld();
 mapper.CreateMapper<DestinyType>()
       	.Map(helloWorld);
 ```
-<!-- NOT YET
+
+You can use annotations to define target property
+
+```csharp
+public class HelloWorld 
+{
+	[PropertyMap("MyHelloProp")]
+	public string Hello { get; set; }
+
+	[PropertyMap("MyWorldProp")]
+	public string World { get; set; }
+}
+```
+
+And you can set custom values for the target object using lambda
+
+```csharp
+var mapper = new Mapper();
+
+var helloWorld = new HelloWorld();
+
+mapper.CreateMapper<DestinyType>()
+		.CustomMap(x => x.CustomProperty, DateTime.Now)
+      	.Map(helloWorld);
+```
 
 ### Nuget
 
 You can install ObjectMapper from PM console:
 
 ```
-PM> Install-Package ObjectMapper
+PM> Install-Package ObjectMapper.Framework
 ```
-
--->
 
 ### License
 
