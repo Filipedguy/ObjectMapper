@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6hd9w1wn2506nxn3?svg=true)](https://ci.appveyor.com/project/Filipedguy/objectmapper)
 [![NuGet](https://img.shields.io/nuget/v/ObjectMapper.Framework.svg)](https://www.nuget.org/packages/ObjectMapper.Framework/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/da850256ddbe4d488e74b400cd73e843)](https://www.codacy.com/app/Filipedguy/ObjectMapper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Filipedguy/ObjectMapper&amp;utm_campaign=Badge_Grade)
 
 ### ObjectMapper
 
