@@ -52,7 +52,7 @@ var mapper = new Mapper();
 var helloWorld = new HelloWorld();
 
 mapper.CreateMapper<DestinyType>()
-		.CustomMap(x => x.CustomProperty, DateTime.Now)
+	.CustomMap(x => x.CustomProperty, DateTime.Now)
       	.Map(helloWorld);
 ```
 
