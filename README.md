@@ -7,7 +7,7 @@ ObjectMapper is another, but yet useful mapper for object-to-object.
 
 ### Getting started
 
-Use the annotations, to indicate what properties shall be mapped
+Use the annotations, to indicate what properties shall be mapped:
 
 ```csharp
 public class HelloWorld 
@@ -19,7 +19,7 @@ public class HelloWorld
 	public string World { get; set; }
 }
 ```
-To do the mapping, use the Mapper class (or the IMapper interface in a dependency injection scenario)
+To do the mapping, use the Mapper class (or the IMapper interface in a dependency injection scenario):
 
 ```csharp
 var mapper = new Mapper();
@@ -30,7 +30,7 @@ mapper.CreateMapper<DestinyType>()
       	.Map(helloWorld);
 ```
 
-You can use annotations to define target property
+You can use annotations to define target property:
 
 ```csharp
 public class HelloWorld 
@@ -43,7 +43,7 @@ public class HelloWorld
 }
 ```
 
-And you can set custom values for the target object using lambda
+And you can set custom values for the target object using lambda:
 
 ```csharp
 var mapper = new Mapper();
